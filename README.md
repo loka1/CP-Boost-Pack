@@ -1,16 +1,42 @@
-# cp-boost-pack README
+# CP Boost Pack
 
-## Working with Markdown
+**CP Boost Pack** is a curated extension pack designed specifically for competitive programmers. It includes a selection of essential tools to streamline C++ development and improve the workflow on platforms like Codeforces.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **C++ Support**: Tools to enhance your C++ coding experience.
+- **Codeforces Integration**: Features that simplify the process of solving problems on Codeforces.
+- **Boosted Productivity**: Smart snippets, template management, and quick debugging capabilities help you code faster and more efficiently.
 
-## For more information
+## Included Extensions
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. **Codeium** - [Codeium](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)  
+   Code faster with AI-powered autocompletion and suggestions for C++ and other languages.
 
-**Enjoy!**
+2. **C/C++ Extension Pack** - [ms-vscode.cpptools-extension-pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)  
+   The official Microsoft C/C++ extension pack, providing IntelliSense, debugging, and code navigation features.
+
+3. **C++ Reference** - [Guyutongxue.cpp-reference](https://marketplace.visualstudio.com/items?itemName=Guyutongxue.cpp-reference)  
+   Offers C++ reference documentation directly inside VS Code.
+
+4. **C++ Snippets for Competitive Programming** - [Shariar-Hasan.cpp-snip-cp](https://marketplace.visualstudio.com/items?itemName=Shariar-Hasan.cpp-snip-cp)  
+   Provides useful C++ snippets specifically tailored for competitive programming.
+
+## Requirements
+
+- Visual Studio Code v1.48.0 or above
+
+## Installation
+
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar.
+3. Search for `CP Boost Pack` and click Install.
+4. Enjoy coding with all the essential tools for competitive programming!
+
+## Contribution
+
+Feel free to contribute to this project by creating pull requests or reporting issues at [CP Boost Pack GitHub Repository](https://github.com/loka1/CP-Boost-Pack).
+
+## License
+
+This extension is licensed under the terms outlined in the `LICENSE.txt` file.

@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.48.0"
   },
+  "icon": "cp-boost-pack-logo.png",
   "keywords": [
     "C",
     "C++",
