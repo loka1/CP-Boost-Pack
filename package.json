@@ -2,7 +2,7 @@
   "name": "cp-boost-pack",
   "displayName": "CP Boost Pack",
   "description": "CP Boost Pack is a curated extension pack designed for competitive programmers. It includes advanced tools to support C++ development and enhance the experience of solving problems on Codeforces. This pack provides features to speed up coding, such as smart snippets, template management, and quick debugging tools, helping you focus on problem-solving with maximum efficiency and speed.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.48.0"
   },
