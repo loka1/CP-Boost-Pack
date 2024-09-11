@@ -6,7 +6,8 @@
 
 - **C++ Support**: Tools to enhance your C++ coding experience.
 - **Codeforces Integration**: Features that simplify the process of solving problems on Codeforces.
-- **Boosted Productivity**: Smart snippets, template management, and quick debugging capabilities help you code faster and more efficiently.
+- **Boosted Productivity**: Smart snippets, template management, quick debugging capabilities, and enhanced problem-solving workflows with **Competitive Programming Helper (cph)**. CPH simplifies the judging, compiling, and submitting of competitive programming problems, and automatically downloads test cases, helping you solve problems faster and more efficiently on platforms like Codeforces.
+
 
 ## Included Extensions
 
@@ -21,6 +22,9 @@
 
 4. **C++ Snippets for Competitive Programming** - [Shariar-Hasan.cpp-snip-cp](https://marketplace.visualstudio.com/items?itemName=Shariar-Hasan.cpp-snip-cp)  
    Provides useful C++ snippets specifically tailored for competitive programming.
+
+5. **Competitive Programming Helper (cph)** - [DivyanshuAgrawal.competitive-programming-helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)  
+   Helps you compile, run, and judge competitive programming problems. It integrates with platforms like Codeforces and auto-submits solutions.
 
 ## Requirements
 
